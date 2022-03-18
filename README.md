@@ -1,7 +1,7 @@
 # DentNet
 Pytorch __model only__ of U-Net, as used in the paper:
 
-Pasquale Lafiosca et al., *Automatic Segmentation of Aircraft Dents in Point Clouds*, SAE Technical Paper, 2022, https://doi.org/10.4271/2022-01-0022
+> Pasquale Lafiosca et al., *Automatic Segmentation of Aircraft Dents in Point Clouds*, SAE Technical Paper, 2022, https://doi.org/10.4271/2022-01-0022
 
 If you find this useful, please cite as
 ```
