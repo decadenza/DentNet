@@ -14,4 +14,9 @@ If you find this useful, please cite as
 }
 ```
 
-Please note that this repository is not maintained.
+## Other info
+In the paper, the loss function used was `nn.BCEWithLogitsLoss` and the optimizer was `optim.Adam`.
+Dataset not shared.
+
+## Notes
+Please note: this repository is __not__ maintained.
