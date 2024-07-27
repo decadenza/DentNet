@@ -16,7 +16,8 @@ If you find this useful, please cite as
 
 ## Other info
 In the paper, the loss function used was `nn.BCEWithLogitsLoss` and the optimizer was `optim.Adam`.
-Dataset not shared.
+The real samples mentioned in the paper and their predictions are shared in the [/realSamples]() folder.
+The training dataset cannot be shared.
 
 ## Notes
-Please note: this repository is __not__ maintained.
+Please note that this repository is archived.
