@@ -16,7 +16,7 @@ If you find this useful, please cite as
 
 ## Other info
 In the paper, the loss function used was `nn.BCEWithLogitsLoss` and the optimizer was `optim.Adam`.
-The real samples mentioned in the paper and their predictions are shared in the [/realSamples]() folder.
+The real samples mentioned in the paper and their predictions are shared in the [realSamples](https://github.com/decadenza/DentNet/tree/main/realSamples) folder.
 The training dataset cannot be shared.
 
 ## Notes
